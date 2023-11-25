@@ -35,5 +35,19 @@ Key Performance Indicators (KPIs)
 ![image](https://github.com/KevinAGarcia/Numismatics-mexico/assets/113644566/7986c97c-8c48-4e1b-9a4c-1208d6963b72)
 
 
+Which brand of computers is kept in the purchase?
+
+![image](https://github.com/KevinAGarcia/Numismatics-mexico/assets/113644566/80db0992-4857-45d9-9374-2d2426bfe0eb)
+
+Which brand of computers did the customer switch for?![image](https://github.com/KevinAGarcia/Numismatics-mexico/assets/113644566/5ffdd17c-5f35-46d7-9e60-a78314dd14ba)
+
+![image](https://github.com/KevinAGarcia/Numismatics-mexico/assets/113644566/3d8e0a2e-242d-4f0b-a173-4d97eff90cfa)
+
+How are shopping preferences distributed by computer brand?
+
+![image](https://github.com/KevinAGarcia/Numismatics-mexico/assets/113644566/55741041-2286-43df-9057-30d2abed1651)
+
+
+
 
 
