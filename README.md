@@ -39,13 +39,28 @@ Which brand of computers is kept in the purchase?
 
 ![image](https://github.com/KevinAGarcia/Numismatics-mexico/assets/113644566/80db0992-4857-45d9-9374-2d2426bfe0eb)
 
-Which brand of computers did the customer switch for?![image](https://github.com/KevinAGarcia/Numismatics-mexico/assets/113644566/5ffdd17c-5f35-46d7-9e60-a78314dd14ba)
+Which brand of computers did the customer switch for?
 
 ![image](https://github.com/KevinAGarcia/Numismatics-mexico/assets/113644566/3d8e0a2e-242d-4f0b-a173-4d97eff90cfa)
 
 How are shopping preferences distributed by computer brand?
 
 ![image](https://github.com/KevinAGarcia/Numismatics-mexico/assets/113644566/55741041-2286-43df-9057-30d2abed1651)
+
+![image](https://github.com/KevinAGarcia/Numismatics-mexico/assets/113644566/797630a0-3e71-408b-bbe8-f40d92db68b5)
+
+Design Dashboard
+![image](https://github.com/KevinAGarcia/Numismatics-mexico/assets/113644566/166b6219-861d-4275-ac61-8ab24c1d37d1)
+![image](https://github.com/KevinAGarcia/Numismatics-mexico/assets/113644566/dc2c267b-903d-416d-bd77-35ef231c891e)
+![image](https://github.com/KevinAGarcia/Numismatics-mexico/assets/113644566/fc1d09bb-7fd7-4f50-9599-dfcc638a64c5)
+
+Linking decision-making to dashboards
+![image](https://github.com/KevinAGarcia/Numismatics-mexico/assets/113644566/ab6aa38d-72fa-4615-91fe-6e259dc92294)
+
+
+
+
+
 
 
 
