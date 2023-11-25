@@ -67,14 +67,31 @@ Visualizing the last quarter of 2021
 ![image](https://github.com/KevinAGarcia/Numismatics-mexico/assets/113644566/1f72543f-f79e-45e8-aeaa-5f8548fedd9a)
 
 Comparison of sales by advertising
-![image](https://github.com/KevinAGarcia/Numismatics-mexico/assets/113644566/e6f5c164-a0e9-41de-acde-364cfa51239a)
 
 ![image](https://github.com/KevinAGarcia/Numismatics-mexico/assets/113644566/a20d2077-86cb-48d8-a3a6-eabd8f40f8eb)
 
+![image](https://github.com/KevinAGarcia/Numismatics-mexico/assets/113644566/53d73c7b-cd2a-4bb6-9c2b-db6bcad55254)
+
+Comparison of sales by carrier
 
 
+![image](https://github.com/KevinAGarcia/Numismatics-mexico/assets/113644566/2241dc93-99cc-4f97-96d7-083a3cf7206d)
+
+Call to Action : Proposals for strategies and alternatives
+
+Boost advertising sales of the top 5 publications to exceed quarter 4 of 2021.
 
 
+Promote cross-advertising sales based on the type of product published, similarity or similarity.
+
+
+Make sales in an omnichannel way, growing advertising not only on social networks, but also looking for other channels such as stores or marketplace.
+
+
+Most frequently designate DHL or 99minutos carriers as the shipping support companies for Mercado Envíos
+
+
+Adapt to the local market, this for the increase of sales in states where sales are lower such as Zacatecas, Yucatan, Morelos, etc. This can help us get to know our audience and also gain credibility and visibility
 
 
 
