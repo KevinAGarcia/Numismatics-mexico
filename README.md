@@ -79,19 +79,19 @@ Comparison of sales by carrier
 
 Call to Action : Proposals for strategies and alternatives
 
-Boost advertising sales of the top 5 publications to exceed quarter 4 of 2021.
+1. Boost advertising sales of the top 5 publications to exceed quarter 4 of 2021.
 
 
-Promote cross-advertising sales based on the type of product published, similarity or similarity.
+2. Promote cross-advertising sales based on the type of product published, similarity or similarity.
 
 
-Make sales in an omnichannel way, growing advertising not only on social networks, but also looking for other channels such as stores or marketplace.
+3. Make sales in an omnichannel way, growing advertising not only on social networks, but also looking for other channels such as stores or marketplace.
 
 
-Most frequently designate DHL or 99minutos carriers as the shipping support companies for Mercado Envíos
+4. Most frequently designate DHL or 99minutos carriers as the shipping support companies for Mercado Envíos
 
 
-Adapt to the local market, this for the increase of sales in states where sales are lower such as Zacatecas, Yucatan, Morelos, etc. This can help us get to know our audience and also gain credibility and visibility
+5. Adapt to the local market, this for the increase of sales in states where sales are lower such as Zacatecas, Yucatan, Morelos, etc. This can help us get to know our audience and also gain credibility and visibility
 
 
 
