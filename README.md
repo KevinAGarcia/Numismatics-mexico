@@ -32,7 +32,8 @@ Customer-facing objectives
 
 Key Performance Indicators (KPIs)
 
-![image](https://github.com/KevinAGarcia/Numismatics-mexico/assets/113644566/826bcaaa-e29d-40fe-870a-ecb6b5a458c0)
+![image](https://github.com/KevinAGarcia/Numismatics-mexico/assets/113644566/7986c97c-8c48-4e1b-9a4c-1208d6963b72)
+
 
 
 
