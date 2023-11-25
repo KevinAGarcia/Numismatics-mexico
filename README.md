@@ -57,6 +57,21 @@ Design Dashboard
 Linking decision-making to dashboards
 ![image](https://github.com/KevinAGarcia/Numismatics-mexico/assets/113644566/ab6aa38d-72fa-4615-91fe-6e259dc92294)
 
+Final conclusion and story telling
+
+"Visualize findings to support the generation of the year-end business strategy"
+
+![image](https://github.com/KevinAGarcia/Numismatics-mexico/assets/113644566/c51a01ec-f784-4033-a3a2-854d5c7d99f7)
+
+Visualizing the last quarter of 2021
+![image](https://github.com/KevinAGarcia/Numismatics-mexico/assets/113644566/1f72543f-f79e-45e8-aeaa-5f8548fedd9a)
+
+Comparison of sales by advertising
+![image](https://github.com/KevinAGarcia/Numismatics-mexico/assets/113644566/e6f5c164-a0e9-41de-acde-364cfa51239a)
+
+![image](https://github.com/KevinAGarcia/Numismatics-mexico/assets/113644566/a20d2077-86cb-48d8-a3a6-eabd8f40f8eb)
+
+
 
 
 
