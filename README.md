@@ -93,6 +93,8 @@ Call to Action : Proposals for strategies and alternatives
 
 5. Adapt to the local market, this for the increase of sales in states where sales are lower such as Zacatecas, Yucatan, Morelos, etc. This can help us get to know our audience and also gain credibility and visibility
 
+![image](https://github.com/KevinAGarcia/Numismatics-mexico/assets/113644566/0d461ec0-841e-47dd-a419-34848da3df1a)
+
 
 
 
